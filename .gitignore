@@ -9,6 +9,7 @@ visitors_files
 file_path
 
 Mecab-ko-for-Google-Colab
+study
 서브워드_토크나이저.md
 *.pdf
 *.xls
@@ -19,6 +20,7 @@ Mecab-ko-for-Google-Colab
 *.xlsx
 *.html
 *.json
+*.JPG
 *.png
 *.txt
 *.docx
