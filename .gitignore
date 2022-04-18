@@ -18,7 +18,6 @@ study
 *.geojson
 *.csv
 *.xlsx
-*.html
 *.json
 *.JPG
 *.png
