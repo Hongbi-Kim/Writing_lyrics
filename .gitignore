@@ -8,6 +8,8 @@
 visitors_files
 file_path
 
+문서요약.ipynb
+*.mp3
 Mecab-ko-for-Google-Colab
 study
 서브워드_토크나이저.md
