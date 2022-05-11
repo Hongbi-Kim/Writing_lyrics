@@ -7,7 +7,9 @@
 
 visitors_files
 file_path
-
+AI작사가에이나
+ToyProject
+front-end-20220426T040210Z-001
 문서요약.ipynb
 *.mp3
 Mecab-ko-for-Google-Colab
@@ -15,7 +17,9 @@ study
 서브워드_토크나이저.md
 REACT
 Web
+*.MOV
 *.pdf
+*.mp4
 *.xls
 *.plk
 *.pkl
